@@ -1,8 +1,8 @@
 ## Hi there, I'm Rahul Senthil Kumar 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahul6700&show_icons=true&theme=transparent)](https://github.com/Rahul6700/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahul6700&show_icons=true&theme=transparent)](https://github.com/Rahul6700/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul6700&layout=donut&theme=transparent)](https://github.com/Rahul6700/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul6700&layout=donut&theme=transparent)](https://github.com/Rahul6700/github-readme-stats) -->
 
 <!--
 **Rahul6700/Rahul6700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
