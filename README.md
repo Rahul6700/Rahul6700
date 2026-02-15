@@ -1,4 +1,18 @@
-## Hi there, I'm Rahul Senthil Kumar 👋
+```css
+{
+  username: "Rahul6700";
+  name: "Rahul Senthil Kumar";
+  position: {"Student at PES University", "ex-summer Intern at OpenTurf Technologies"};
+  languages: {"C++", "JavaScript", "Go", "Python"};
+  website: "https://www.rahulsenthilkumar.xyz/";
+  currFavRepo: "Valkyrie";
+  isCool: true;
+  number: 18;
+  colour: "Blue";
+}
+```
+
+<!-- ## Hi there, I'm Rahul Senthil Kumar 👋
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahul6700&show_icons=true&theme=transparent)](https://github.com/Rahul6700/github-readme-stats)
